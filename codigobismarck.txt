@@ -1,0 +1,7 @@
+<html>
+<head>
+       <title> Bismarck: El poder de doblegar una nación </title>
+</head>
+<body>
+       <h1> El Bismarck </h1> 
+       <p> El acorazado Bismarck fue uno de los barcos mas grandes, bello y sin igual "Un gran drakkar, capaz de aguantar un tifón sin miedo a revolcarse", este fue hecho en Noruega especialmente en la ciudad de
